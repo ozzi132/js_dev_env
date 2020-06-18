@@ -1,0 +1,23 @@
+{
+  "name": "js_dev_env",
+  "version": "1.0.0",
+  "description": "Sample development environment setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozzi132/js_dev_env.git"
+  },
+  "keywords": [
+    "starter",
+    "sapmpleProject"
+  ],
+  "author": "Lorzechowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozzi132/js_dev_env/issues"
+  },
+  "homepage": "https://github.com/ozzi132/js_dev_env#readme"
+}
